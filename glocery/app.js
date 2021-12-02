@@ -28,7 +28,7 @@ function addItem(e){
    // console.log(id);
 
    if(value  && !editFlag){
-      //Additems
+      //Additems 
    //    const element = document.createElement('article');
    //    let attribute = document.createAttribute('data-id');
    //    attribute.value = id;
